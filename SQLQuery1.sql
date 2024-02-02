@@ -1,4 +1,4 @@
-
+--test from github
 CREATE TABLE city (
  id int NOT NULL IDENTITY(1,1),
  city_name char(128) NOT NULL,
